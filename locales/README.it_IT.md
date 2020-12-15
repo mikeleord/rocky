@@ -11,20 +11,20 @@
 
 ## About
 
-Rocky Linux è un sistema operativo enterprise basato sulla community e progettato per essere 100% compatibile bug-per-bug con Enterprise Linux, ora che CentOS ha cambiato direzione.
+Rocky Linux è un sistema operativo enterprise basato sulla community e progettato per essere al 100% compatibile bug-for-bug, ora che CentOS ha cambiato direzione.
 
 ## Domande frequenti (Frequently Asked Questions)
 
 > **Q:** In che senso, "CentOS ha cambiato direzione?"
 
-Il progetto CentOS [ha recentemente annunciato](https://blog.centos.org/2020/12/future-is-centos-stream/) un cambio di strategia per CentOS. Laddove precedentemente CentOS esisteva come *downstream* build del suo vendor (riceveva patch e aggiornamenti dopo l'upstream vendor), adesso diventerà una *upstream* build (testing patches e aggiornamenti ricevuti *prima* dell'upstream vendor).
+Il progetto CentOS [ha recentemente annunciato](https://blog.centos.org/2020/12/future-is-centos-stream/) un cambio di strategia. Laddove precedentemente CentOS era una versione *downstream* build (riceveva patch e aggiornamenti dopo l'upstream del vendor), adesso diventerà una versione *upstream* build (testing patches e aggiornamenti ricevuti *prima* dell'upstream del vendor).
 
-Inoltre, il supporto per CentOS Linux 8 è stato accorciato, dal 31 Maggio 2029 al 31 Dicembre 2021.
+Inoltre, il supporto per CentOS Linux 8 è stato abbreviato, dal 31 Maggio 2029 al 31 Dicembre 2021.
 
 
-> **Q:** Quindi come si posiziona Rocky Linux?
+> **Q:** Quindi dove si posiziona Rocky Linux?
 
-Rocky Linux punta ad essere una downstream build come lo è stato CentOS in precedenza, effettuando rilasci dopo l'upstream vendor, non prima.
+Rocky Linux punta ad essere una versione downstream build come lo è stato CentOS in precedenza, effettuando rilasci solo dopo l'upstream del vendor, e non prima.
 
 > **Q:** Quando sarà rilasciato?
 
@@ -36,11 +36,11 @@ Un'alternativa **solida**, **stabile**, e **trasparente** per gli ambienti di pr
 
 > **Q:** Chi guida lo sviluppo di Rocky Linux?
 
-Noi tutti, Rocky Linux è un progetto community-driven e lo sarà per sempre. Rocky Linux non sarà venduto o guidato da interessi aziendali.
+Tutti noi, Rocky Linux è un progetto community-driven e lo sarà per sempre. Rocky Linux non sarà venduto o guidato da interessi aziendali.
 
 > **Q:** Come posso partecipare?
 
-Per piacere leggi la sezione [contribuire](#contribuire) in fondo.
+Per favore leggi la sezione [come contribuire](#contribuire) in fondo a questa pagina.
 
 ## Contatti
 
@@ -65,11 +65,11 @@ Per tutte le altre domande: hello@rockylinux.org
 * [Reddit](https://www.reddit.com/r/RockyLinux)
 * [Matrix](https://matrix.to/#/+rockylinux:matrix.org)
 
-## Contribuire
+## Come contribuire
 
 Grazie per il tuo interesse a contribuire al progetto.
 
-Se sei uno sviluppatore, architect, ingegnere o in ogni caso interessato a contribuire il tuo tempo e le tue competenze allora considera di iscriverti al nostro [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) ed entrare nei canali più rilevanti per i tuoi interessi.
+Se sei uno sviluppatore, architect, ingegnere o in ogni caso sei interessato a contribuire con il tuo tempo e le tue competenze allora considera di iscriverti al nostro [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) e ad entrare sui canali più rilevanti secondo i tuoi interessi.
 
 Se sei interessato a donare o sponsorizzare il progetto, per piacere scrivi a hello@rockylinux.org
 
